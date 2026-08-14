@@ -12,9 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=Jamrahc&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jamrahc&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
