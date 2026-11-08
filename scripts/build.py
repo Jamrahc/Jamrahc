@@ -74,9 +74,14 @@ STACK = [
 TAG_ICONS = {"Python": "brand-python", "sklearn": "brand-scikitlearn",
              "Jupyter": "brand-jupyter", "Pandas": "brand-pandas",
              "MySQL": "brand-mysql", "Power BI": "ui-chart-column",
-             "C#": "brand-csharp", ".NET": "brand-dotnet"}
+             "C#": "brand-csharp", ".NET": "brand-dotnet",
+             "PySpark": "brand-apachespark", "Kafka": "brand-apachekafka",
+             "Airflow": "brand-apacheairflow"}
 
 PROJECTS = [
+    ("customer360-lakehouse", "ui-database-zap",
+     "Unified bank customer view on a Delta Lake lakehouse",
+     ["PySpark", "Kafka", "Airflow"]),
     ("Credit-Risk", "ui-shield-check", "Credit risk analysis using machine learning",
      ["Python", "sklearn", "Jupyter"]),
     ("Customer-Churn-Analysis", "ui-trending-down", "Modelling customer churn with Python",
@@ -90,7 +95,8 @@ PROJECTS = [
      ["Python"]),
     ("Movet", "ui-code", "University software engineering project", ["C#", ".NET"]),
 ]
-SHORT_NAMES = {"HR-Data-Analysis-project-Python-Power-BI-and-SQL": "HR-Data-Analysis",
+SHORT_NAMES = {"customer360-lakehouse": "Customer360-Lakehouse",
+               "HR-Data-Analysis-project-Python-Power-BI-and-SQL": "HR-Data-Analysis",
                "Walmart-Sales-data-analysis": "Walmart-Sales-Analysis"}
 
 QUOTE = ("Without data, you're just another person with an opinion.", "W. Edwards Deming")
@@ -342,7 +348,7 @@ def main() -> None:
         write("section-stack", scheme, section_bar("stack", "ui-layers", f"{stack_count()} tools", t))
         write("stack", scheme, stack(t))
         write("section-projects", scheme,
-              section_bar("projects", "ui-folder-git-2", f"{len(PROJECTS)} pinned", t))
+              section_bar("projects", "ui-folder-git-2", f"{len(PROJECTS)} projects", t))
         for i, p in enumerate(PROJECTS, 1):
             write(f"project-{i}", scheme, project(*p, t))
         write("section-activity", scheme,

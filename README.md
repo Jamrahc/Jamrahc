@@ -21,12 +21,13 @@
 <p><img alt="Projects" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/section-projects-dark.svg" width="100%"></p>
 
 <p>
-<a href="https://github.com/Jamrahc/Credit-Risk"><img alt="Credit-Risk: Credit risk analysis using machine learning" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-1-dark.svg" width="100%"></a>
-<a href="https://github.com/Jamrahc/Customer-Churn-Analysis"><img alt="Customer-Churn-Analysis: Modelling customer churn with Python" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-2-dark.svg" width="100%"></a>
-<a href="https://github.com/Jamrahc/HR-Data-Analysis-project-Python-Power-BI-and-SQL"><img alt="HR-Data-Analysis: HR analytics across MySQL, Python and Power BI" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-3-dark.svg" width="100%"></a>
-<a href="https://github.com/Jamrahc/Book-Recommendation-System"><img alt="Book-Recommendation-System: Book recommender, collaborative filtering" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-4-dark.svg" width="100%"></a>
-<a href="https://github.com/Jamrahc/Walmart-Sales-data-analysis"><img alt="Walmart-Sales-Analysis: Exploratory analysis of Walmart sales" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-5-dark.svg" width="100%"></a>
-<a href="https://github.com/Jamrahc/Movet"><img alt="Movet: University software engineering project" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-6-dark.svg" width="100%"></a>
+<a href="https://github.com/Jamrahc/customer360-lakehouse"><img alt="Customer360-Lakehouse: Unified bank customer view on a Delta Lake lakehouse" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-1-dark.svg" width="100%"></a>
+<a href="https://github.com/Jamrahc/Credit-Risk"><img alt="Credit-Risk: Credit risk analysis using machine learning" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-2-dark.svg" width="100%"></a>
+<a href="https://github.com/Jamrahc/Customer-Churn-Analysis"><img alt="Customer-Churn-Analysis: Modelling customer churn with Python" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-3-dark.svg" width="100%"></a>
+<a href="https://github.com/Jamrahc/HR-Data-Analysis-project-Python-Power-BI-and-SQL"><img alt="HR-Data-Analysis: HR analytics across MySQL, Python and Power BI" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-4-dark.svg" width="100%"></a>
+<a href="https://github.com/Jamrahc/Book-Recommendation-System"><img alt="Book-Recommendation-System: Book recommender, collaborative filtering" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-5-dark.svg" width="100%"></a>
+<a href="https://github.com/Jamrahc/Walmart-Sales-data-analysis"><img alt="Walmart-Sales-Analysis: Exploratory analysis of Walmart sales" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-6-dark.svg" width="100%"></a>
+<a href="https://github.com/Jamrahc/Movet"><img alt="Movet: University software engineering project" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/project-7-dark.svg" width="100%"></a>
 </p>
 
 <p><img alt="Activity" src="https://raw.githubusercontent.com/Jamrahc/Jamrahc/main/assets/section-activity-dark.svg" width="100%"></p>
